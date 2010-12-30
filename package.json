@@ -1,0 +1,10 @@
+{
+  "name": "memstream",
+  "description": "A robust and lightweight memory stream for node.js.",
+  "version": "0.0.1",
+  "contributors": [
+    { "name": "Oliver Morgan", "email": "oliver.morgan@kohark.com" },
+  ],
+  "directories": { "lib": "./lib/memstream" },
+  "engines": { "node": ">= 0.1.98" }
+}
